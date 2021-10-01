@@ -1,2 +1,2 @@
-# Simple-Pain-Application
-Simple Pain Application
+# Simple-Paint-Application
+Simple Paint Application
